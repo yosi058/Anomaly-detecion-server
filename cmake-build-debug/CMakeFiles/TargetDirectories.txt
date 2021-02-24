@@ -1,0 +1,3 @@
+/home/yosi/CLionProjects/Advance progream 4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/yosi/CLionProjects/Advance progream 4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/yosi/CLionProjects/Advance progream 4/cmake-build-debug/CMakeFiles/Advance_progream_4.dir

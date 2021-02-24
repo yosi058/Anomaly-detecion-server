@@ -1,0 +1,182 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yosi/CLionProjects/Advance progream 4/AnomalyDetector.h
+string
+-
+utility
+-
+vector
+-
+timeseries.h
+/home/yosi/CLionProjects/Advance progream 4/timeseries.h
+math.h
+/home/yosi/CLionProjects/Advance progream 4/math.h
+
+/home/yosi/CLionProjects/Advance progream 4/CLI.cpp
+CLI.h
+/home/yosi/CLionProjects/Advance progream 4/CLI.h
+
+/home/yosi/CLionProjects/Advance progream 4/CLI.h
+cstring
+-
+commands.h
+/home/yosi/CLionProjects/Advance progream 4/commands.h
+
+/home/yosi/CLionProjects/Advance progream 4/HybridAnomalyDetector.cpp
+HybridAnomalyDetector.h
+/home/yosi/CLionProjects/Advance progream 4/HybridAnomalyDetector.h
+
+/home/yosi/CLionProjects/Advance progream 4/HybridAnomalyDetector.h
+SimpleAnomalyDetector.h
+/home/yosi/CLionProjects/Advance progream 4/SimpleAnomalyDetector.h
+minCircle.h
+/home/yosi/CLionProjects/Advance progream 4/minCircle.h
+
+/home/yosi/CLionProjects/Advance progream 4/MainTrain.cpp
+iostream
+-
+fstream
+-
+sys/types.h
+-
+sys/socket.h
+-
+netinet/in.h
+-
+netdb.h
+-
+pthread.h
+-
+thread
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+unistd.h
+-
+time.h
+-
+Server.h
+/home/yosi/CLionProjects/Advance progream 4/Server.h
+
+/home/yosi/CLionProjects/Advance progream 4/Server.cpp
+queue
+-
+Server.h
+/home/yosi/CLionProjects/Advance progream 4/Server.h
+
+/home/yosi/CLionProjects/Advance progream 4/Server.h
+pthread.h
+-
+sys/socket.h
+-
+netinet/in.h
+-
+thread
+-
+unistd.h
+-
+cstdlib
+-
+CLI.h
+/home/yosi/CLionProjects/Advance progream 4/CLI.h
+stdexcept
+-
+commands.h
+/home/yosi/CLionProjects/Advance progream 4/commands.h
+
+/home/yosi/CLionProjects/Advance progream 4/SimpleAnomalyDetector.cpp
+SimpleAnomalyDetector.h
+/home/yosi/CLionProjects/Advance progream 4/SimpleAnomalyDetector.h
+AnomalyDetector.h
+/home/yosi/CLionProjects/Advance progream 4/AnomalyDetector.h
+timeseries.h
+/home/yosi/CLionProjects/Advance progream 4/timeseries.h
+cmath
+-
+
+/home/yosi/CLionProjects/Advance progream 4/SimpleAnomalyDetector.h
+anomaly_detection_util.h
+/home/yosi/CLionProjects/Advance progream 4/anomaly_detection_util.h
+AnomalyDetector.h
+/home/yosi/CLionProjects/Advance progream 4/AnomalyDetector.h
+vector
+-
+algorithm
+-
+cstring
+-
+cmath
+-
+
+/home/yosi/CLionProjects/Advance progream 4/anomaly_detection_util.cpp
+math.h
+-
+anomaly_detection_util.h
+/home/yosi/CLionProjects/Advance progream 4/anomaly_detection_util.h
+
+/home/yosi/CLionProjects/Advance progream 4/anomaly_detection_util.h
+
+/home/yosi/CLionProjects/Advance progream 4/commands.h
+iostream
+-
+cstring
+-
+syscall.h
+-
+fstream
+-
+vector
+-
+HybridAnomalyDetector.h
+/home/yosi/CLionProjects/Advance progream 4/HybridAnomalyDetector.h
+
+/home/yosi/CLionProjects/Advance progream 4/minCircle.cpp
+minCircle.h
+/home/yosi/CLionProjects/Advance progream 4/minCircle.h
+
+/home/yosi/CLionProjects/Advance progream 4/minCircle.h
+iostream
+-
+vector
+-
+cmath
+-
+anomaly_detection_util.h
+/home/yosi/CLionProjects/Advance progream 4/anomaly_detection_util.h
+
+/home/yosi/CLionProjects/Advance progream 4/timeseries.cpp
+timeseries.h
+/home/yosi/CLionProjects/Advance progream 4/timeseries.h
+iostream
+-
+vector
+-
+string
+-
+
+/home/yosi/CLionProjects/Advance progream 4/timeseries.h
+iostream
+-
+fstream
+-
+string
+-
+vector
+-
+map
+-
+iterator
+-
+sstream
+-
+
