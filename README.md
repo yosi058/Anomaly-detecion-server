@@ -22,5 +22,5 @@ B. MinCIrcle that contion all the normal point inside it and find if there is a 
 
 In both cases - the server will declare alarm about the deviation.
 
-4. In addtion - the server sent a menu that offer the client a faw different options about like th decide when the server should declare of a alarm.
+4.In addtion - the server sent a menu that offer the client a faw different options about like th decide when the server should declare of a alarm.
 
